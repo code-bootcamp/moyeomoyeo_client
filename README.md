@@ -19,10 +19,10 @@
 ![team6_flowchart](https://user-images.githubusercontent.com/59791809/184164803-e383a15f-039d-42fb-a370-5137958b3b39.jpg)
 
 ## 페이지 및 기능
-* 메인페이지
+* 메인페이지  
 ![메인](https://user-images.githubusercontent.com/59791809/184176491-e8db88d0-c247-46a4-827d-2c9c7da21e64.gif)
 
-* 로그인 및 회원가입
+* 로그인 및 회원가입  
 회원은 일반 유저와 행사(상품) 관계자 두 타입
 ![Login](https://user-images.githubusercontent.com/59791809/184176649-e2a5ab7a-e6c8-4be9-b167-07169f3417ec.png)
 
