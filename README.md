@@ -10,7 +10,7 @@
 거리 두기가 풀리면서 어딘가로는 가고 싶지만 어딜 가야 할지 모를 때, 가고 싶은 곳은 있지만 혼자서 가긴 싫을 때!  함께할 동행자까지 한 번에 구하면 좋겠다는 생각에 “모여? 모여!” 를 소개하고자 합니다.
 
 ## 팀원 및 역할
-![스크린샷 2022-08-11 23 46 08](https://user-images.githubusercontent.com/59791809/184163367-856d92b4-1578-4ad3-a734-e2fa27a3708e.png)
+![스크린샷 2022-08-11 23 46 08]  (https://user-images.githubusercontent.com/59791809/184163367-856d92b4-1578-4ad3-a734-e2fa27a3708e.png)
 
 ## 프로젝트 스택
 ![기술스택](https://user-images.githubusercontent.com/59791809/184163492-d540619a-eae5-4359-9acc-c734bfc31562.png)
@@ -31,10 +31,10 @@
 ![signup-user](https://user-images.githubusercontent.com/59791809/184176707-5fd72d50-6067-4694-8967-6f87f2626904.png)
 
 * 행사 리스트 조회  
-![행사리스트](https://user-images.githubusercontent.com/59791809/184177251-50fa7274-2c6e-4209-888d-6ff39726ae91.png)
+![행사리스트]  (https://user-images.githubusercontent.com/59791809/184177251-50fa7274-2c6e-4209-888d-6ff39726ae91.png)
 
 * 행사 등록  
-![행사 등록](https://user-images.githubusercontent.com/59791809/184177411-b21636d3-f740-4d00-9a16-40030c37d0dd.png)
+![행사 등록]  (https://user-images.githubusercontent.com/59791809/184177411-b21636d3-f740-4d00-9a16-40030c37d0dd.png)
  
 * 동행 게시판 확인 및 댓글로 신청  
 <img width="756" alt="동행 게시판 리스트" src="https://user-images.githubusercontent.com/59791809/184177985-15d71bb3-487b-444b-abc4-de94e3739bbe.png">
