@@ -31,10 +31,10 @@
 ![signup-user](https://user-images.githubusercontent.com/59791809/184176707-5fd72d50-6067-4694-8967-6f87f2626904.png)
 
 * 행사 리스트 조회  
-![행사리스트]  (https://user-images.githubusercontent.com/59791809/184177251-50fa7274-2c6e-4209-888d-6ff39726ae91.png)
+![행사리스트](https://user-images.githubusercontent.com/59791809/184177251-50fa7274-2c6e-4209-888d-6ff39726ae91.png)
 
 * 행사 등록  
-![행사 등록]  (https://user-images.githubusercontent.com/59791809/184177411-b21636d3-f740-4d00-9a16-40030c37d0dd.png)
+![행사 등록](https://user-images.githubusercontent.com/59791809/184177411-b21636d3-f740-4d00-9a16-40030c37d0dd.png)
  
 * 동행 게시판 확인 및 댓글로 신청  
 <img width="756" alt="동행 게시판 리스트" src="https://user-images.githubusercontent.com/59791809/184177985-15d71bb3-487b-444b-abc4-de94e3739bbe.png">
